@@ -7,6 +7,15 @@ Metadata will not be displayed on the page, but is machine parsable.
 
 Metadata is used by browsers (how to display content or reload page), search engines (keywords), and other web services.
 
+### Examples
+
+### This tag defines the keywords for search engines:
+```<meta name="keywords" content="Mobile, Tablets, Desktops">```
+### This tag defines the description:
+```<meta name="description" content="Keep calm and fork thy repository">```
+### This tag is used to mention the author name:
+```<meta name="author" content="Bald Joe">```
+
 ## Basic HTML Meta Tags
 
 ``` html
