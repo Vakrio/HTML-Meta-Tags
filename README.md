@@ -172,6 +172,7 @@ polling-uri2=notifications/contoso2.xml; polling-uri3=notifications/contoso3.xml
 ```
 
 ## Notable Resources
+- [What Is Tagging and Why Should We Do It?](https://www.lifewire.com/tagging-advantages-3469879) 
 - [Meta Elements](https://en.wikipedia.org/wiki/Meta_element)
 - [<meta>The metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 - [General Information On Metatags](https://www.metatags.org/all-meta-tags-overview/)
